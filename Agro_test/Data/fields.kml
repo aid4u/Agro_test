@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Agricultural Fields</name>
+
+		<!-- Поле 1 -->
+		<Placemark>
+			<name>Кукуруза</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>1</value>
+				</Data>
+				<Data name="size">
+					<value>78420.07</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-122.0860,37.4215
+							-122.0820,37.4215
+							-122.0820,37.4235
+							-122.0860,37.4235
+							-122.0860,37.4215
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+
+		<!-- Поле 2 -->
+		<Placemark>
+			<name>Ставропольский край</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>2</value>
+				</Data>
+				<Data name="size">
+					<value>66160.42</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							42.157,44.657
+							42.393,44.863
+							42.592,45.091
+							42.774,45.323
+							43.015,45.510
+							43.267,45.671
+							43.527,45.806
+							43.795,45.915
+							44.070,46.000
+							44.349,46.058
+							44.631,46.091
+							44.915,46.097
+							45.198,46.078
+							45.479,46.033
+							45.755,45.962
+							46.025,45.866
+							46.287,45.746
+							46.539,45.603
+							46.779,45.438
+							47.005,45.253
+							47.215,45.050
+							47.408,44.829
+							47.581,44.592
+							47.733,44.341
+							47.862,44.078
+							47.967,43.804
+							48.047,43.522
+							48.100,43.234
+							48.126,42.941
+							48.125,42.647
+							42.157,44.657
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
