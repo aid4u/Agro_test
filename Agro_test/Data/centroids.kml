@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml
+	xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
 		<name>Agricultural Fields</name>
-
 		<!-- Поле 1 -->
 		<Placemark>
 			<ExtendedData>
 				<Data name="id">
 					<value>1</value>
 				</Data>
-        <Data name="center">
-        <value>37.4223,-122.0844</value>
-      </Data>
+				<Data name="center">
+					<value>37.4223,-122.0844</value>
+				</Data>
 			</ExtendedData>
 		</Placemark>
-
 		<!-- Поле 2 -->
 		<Placemark>
 			<ExtendedData>
 				<Data name="id">
 					<value>2</value>
 				</Data>
-        <Data name="center">
-        <value>44.70,45.05</value>
-      </Data>
+				<Data name="center">
+					<value>44.70,45.05</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<!-- Поле 3 -->
+		<Placemark>
+			<ExtendedData>
+				<Data name="id">
+					<value>3</value>
+				</Data>
+				<Data name="center">
+					<value>45.0445,41.9697</value>
+				</Data>
 			</ExtendedData>
 		</Placemark>
 	</Document>

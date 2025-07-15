@@ -75,7 +75,7 @@ namespace Agro_test.Controllers
             if (fields == null)
                 return Ok(false);
 
-            var point = new Point(new Coordinate(lng, lat));
+            var point = new Point(new Coordinate(lat, lng));
             var result = new List<FieldBase>();
 
             foreach (var field in fields)
